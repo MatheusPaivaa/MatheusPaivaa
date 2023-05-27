@@ -27,8 +27,8 @@
 
 ##
 
-<p align="justify">Durante minha graduação, busco enriquecer minha formação participando de projetos de pesquisa e extensão, bem como de atividades extracurriculares relacionadas à minha área de estudo - como por exemplo o grupo de extensão SEMEAR, na área de Robótica Móvel Autônoma. Isso me permitirá expandir meu conhecimento e aplicar conceitos teóricos em projetos práticos, desenvolvendo habilidades de resolução de problemas e trabalho em equipe.<br>
-Tenho como objetivo contribuir para o avanço da Computação, aplicando meus conhecimentos teóricos e práticos em projetos que possam impactar positivamente a sociedade. Busco oportunidades de estágio e pesquisa, tanto dentro quanto fora da universidade, para aprimorar minhas habilidades e adquirir experiência profissional.
+<p align="justify"> &emsp; &emsp; Durante minha graduação, busco enriquecer minha formação participando de projetos de pesquisa e extensão, bem como de atividades extracurriculares relacionadas à minha área de estudo - como por exemplo o grupo de extensão SEMEAR, na área de Robótica Móvel Autônoma. Isso me permitirá expandir meu conhecimento e aplicar conceitos teóricos em projetos práticos, desenvolvendo habilidades de resolução de problemas e trabalho em equipe.<br><br>
+&emsp; &emsp;Tenho como objetivo contribuir para o avanço da Computação, aplicando meus conhecimentos teóricos e práticos em projetos que possam impactar positivamente a sociedade. Busco oportunidades de estágio e pesquisa, tanto dentro quanto fora da universidade, para aprimorar minhas habilidades e adquirir experiência profissional.
 </p>
 
 ##

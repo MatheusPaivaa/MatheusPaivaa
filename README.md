@@ -18,7 +18,7 @@
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/MatheusPaivaa" style="display:block">
-    <img height="175em" width="410em" src="https://github-readme-stats.vercel.app/api?username=MatheusPaivaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="175em" width="410em" margin="8em" src="https://github-readme-stats.vercel.app/api?username=MatheusPaivaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="175em" width="410em" src="http://github-readme-streak-stats.herokuapp.com?user=MatheusPaivaa&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=79FF97&fire=79FF97&currStreakLabel=79FF97&background=151515"/>
   </a>
 </div>

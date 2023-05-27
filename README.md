@@ -12,7 +12,7 @@
   <img align="center" alt="jquery" src="https://img.shields.io/badge/C%23-151515?style=for-the-badge&logo=c-sharp&logoColor=79FF97" />
 </div>
 <br>
-<p>Cursando Ciências da Computação na Universidade de São Paulo (USP), no renomado Instituto de Ciências Matemáticas e de Computação (ICMC). Ao longo do curso, tenho me aprofundado em áreas como programação, algoritmos, inteligência artificial e sistemas distribuídos.</p>
+<p align="center">Cursando Ciências da Computação na Universidade de São Paulo (USP), no renomado Instituto de Ciências Matemáticas e de Computação (ICMC). Ao longo do curso, tenho me aprofundado em áreas como programação, algoritmos, inteligência artificial e sistemas distribuídos.</p>
 
 ##
 
@@ -27,10 +27,11 @@
 
 ##
 
-<p>Durante minha graduação, busco enriquecer minha formação participando de projetos de pesquisa e extensão, bem como de atividades extracurriculares relacionadas à minha área de estudo - como por exemplo o grupo de extensão SEMEAR, na área de Robótica Móvel Autônoma. Isso me permitirá expandir meu conhecimento e aplicar conceitos teóricos em projetos práticos, desenvolvendo habilidades de resolução de problemas e trabalho em equipe.<br>
+<p align="justify">Durante minha graduação, busco enriquecer minha formação participando de projetos de pesquisa e extensão, bem como de atividades extracurriculares relacionadas à minha área de estudo - como por exemplo o grupo de extensão SEMEAR, na área de Robótica Móvel Autônoma. Isso me permitirá expandir meu conhecimento e aplicar conceitos teóricos em projetos práticos, desenvolvendo habilidades de resolução de problemas e trabalho em equipe.<br>
 Tenho como objetivo contribuir para o avanço da Computação, aplicando meus conhecimentos teóricos e práticos em projetos que possam impactar positivamente a sociedade. Busco oportunidades de estágio e pesquisa, tanto dentro quanto fora da universidade, para aprimorar minhas habilidades e adquirir experiência profissional.
 </p>
 
+##
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=79FF97" />

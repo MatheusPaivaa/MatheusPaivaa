@@ -32,10 +32,8 @@
 ##
 
 <div style="display: inline_block" align="center">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=79FF97" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=79FF97" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=79FF97" />
-  <img align="center" alt="python" src="https://img.shields.io/badge/jQuery-151515?style=for-the-badge&logo=jquery&logoColor=79FF97" />
+  <img align="center" alt="C" src="https://img.shields.io/badge/C-151515?style=for-the-badge&logo=c&logoColor=79FF97" />
+  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-151515?style=for-the-badge&logo=c%2B%2B&logoColor=79FF97" />
+  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=79FF97" />
   <img align="center" alt="jquery" src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=79FF97" />
-  <img align="center" alt="jquery" src="https://img.shields.io/badge/C%23-151515?style=for-the-badge&logo=c-sharp&logoColor=79FF97" />
 </div>

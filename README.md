@@ -21,8 +21,6 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/MatheusPaivaa/MatheusPaivaa/blob/output/github-contribution-grid-snake.svg)
-
 ##
 
 <p align="justify"> &emsp; &emsp; Durante minha graduação, busco enriquecer minha formação participando de projetos de pesquisa e extensão, bem como de atividades extracurriculares relacionadas à minha área de estudo - como por exemplo o grupo de extensão SEMEAR, na área de Robótica Móvel Autônoma. Isso me permitirá expandir meu conhecimento e aplicar conceitos teóricos em projetos práticos, desenvolvendo habilidades de resolução de problemas e trabalho em equipe.<br><br>

@@ -6,7 +6,6 @@
   <img align="center" alt="C" src="https://img.shields.io/badge/C-151515?style=for-the-badge&logo=c&logoColor=79FF97" />
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-151515?style=for-the-badge&logo=c%2B%2B&logoColor=79FF97" />
   <img align="center" alt="ROS" src="https://img.shields.io/badge/ROS-151515?style=for-the-badge&logo=ros&logoColor=79FF97" />
-  <img align="center" alt="ROS 2" src="https://img.shields.io/badge/ROS%202-151515?style=for-the-badge&logo=ros&logoColor=79FF97" />
   <img align="center" alt="Robotics" src="https://img.shields.io/badge/Robotics-151515?style=for-the-badge&logo=robotframework&logoColor=79FF97" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=79FF97" />
 </div>

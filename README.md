@@ -19,24 +19,15 @@
 
 ##
 
-<div style="display: inline_block" align="center">
-  <a href="https://github.com/MatheusPaivaa" style="display:block">
-    <img height="175em" width="410em" src="https://github-readme-stats.vercel.app/api?username=MatheusPaivaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="175em" width="410em" src="http://github-readme-streak-stats.herokuapp.com?user=MatheusPaivaa&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=79FF97&fire=79FF97&currStreakLabel=79FF97&background=151515"/>
-  </a>
-</div>
-
-##
-
 <p align="justify">
-  I work end-to-end: low-level C/C++ firmware, real-time control on Linux, and ROS/ROS 2 integration. Recent focus: gait control, whole-body locomotion, and mobile manipulation.
-  Member of SEMEAR (Autonomous Mobile Robotics). Open to research internships and R&D collaborations in robotics and embedded systems.
+  I work end-to-end on autonomous robotic control: from Python/C++ development and ROS integration to simulation in NVIDIA Isaac Lab. My current research focuses on Reinforcement Learning (RL), Mixture of Experts (MoE) frameworks, and perceptive loco-manipulation for quadruped robots. I am currently a Research Intern at UIUC's DASLab and an undergraduate researcher at USP's Mobile Robotics Group.
 </p>
 
 ##
 
 <div align="center">
-  <a href="https://YOUR-WEBSITE.com" target="_blank">Website</a> •
+  <a href="https://x.com/mpangarola" target="_blank">Twitter</a> •
   <a href="https://scholar.google.com.br/citations?user=V73PiAkAAAAJ&hl=pt-PT" target="_blank">Google Scholar</a> •
-  <a href="www.linkedin.com/in/matheuspaivaa" target="_blank">LinkedIn</a>
+  <a href="www.linkedin.com/in/matheuspaivaa" target="_blank">LinkedIn</a> •
+  <a href="https://matheuspaivaa.github.io/mpangarola.github.io/" target="_blank">Website</a>
 </div>

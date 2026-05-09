@@ -28,6 +28,6 @@
 <div align="center">
   <a href="https://x.com/mpangarola" target="_blank">Twitter</a> •
   <a href="https://scholar.google.com.br/citations?user=V73PiAkAAAAJ&hl=pt-PT" target="_blank">Google Scholar</a> •
-  <a href="www.linkedin.com/in/matheuspaivaa" target="_blank">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/matheuspaivaa" target="_blank">LinkedIn</a> •
   <a href="https://matheuspaivaa.github.io/mpangarola.github.io/" target="_blank">Website</a>
 </div>
